@@ -1,0 +1,5 @@
+# Ignore all files in datasets folder
+datasets/*
+
+# Keep the placeholder
+!datasets/placeholder.txt
